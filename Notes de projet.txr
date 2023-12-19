@@ -1,0 +1,7 @@
+1 - Concevoir un bot classique
+2 - Indexation utilisateur dans base de données (Extraction de données au démarrage)
+3 - Intégration de fonctions spécifiques :
+    - Filtre langage -> A upgrade
+    - Commande dév pour interaction avec le serveur (Demander les id chans)
+    - Commandes vers bot
+    - Gestion multi serveur -> En cours
